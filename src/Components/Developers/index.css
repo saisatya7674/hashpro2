@@ -1,0 +1,31 @@
+.para{
+    text-align: center;
+}
+
+.maindiv3{
+    background-image: url("https://i.postimg.cc/cCSmXhHL/mike-yukhtenko-wfh8d-Dl-NFOk-unsplash.jpg"); 
+   /**/
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+    
+}
+.headingdiv{
+    color: white;
+    font-family: 'Open Sans';
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+
+.paragraph{
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-top: 20px;
+}

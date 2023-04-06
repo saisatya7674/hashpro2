@@ -1,0 +1,52 @@
+.para{
+    text-align: center;
+}
+.maindiv9{
+    background-color: azure;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+}
+.div10{
+    display: flex;
+    
+    justify-content:space-around;
+    margin: 10px;
+    background-color:#DDDDDD;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.userimg{
+    height: 150px;
+    width: 100px;
+    border-radius: 20px;
+}
+.time{
+    color: brown;
+    font-size: 14px;
+    font-weight: 500;
+}
+.heading33{
+    color: black;
+    font-family: serif;
+    font-size: 20px;
+}
+.guide{
+    background-color:azure;
+    padding: 7px;
+    border-radius: 10px;
+    width: 70px;
+}
+
+.ul{
+   
+
+}
+.div87{
+    display: flex;
+}
+.divun{
+    display: flex;
+    flex-direction: row;
+}

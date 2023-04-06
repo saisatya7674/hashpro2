@@ -1,0 +1,89 @@
+.maindiv2{
+    text-align: center;
+    background-color:azure;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+
+.forcompanypara{
+    font-family: serif;
+    font-weight: 500;
+    font-size: 17px;
+    
+}
+.heading{
+    color: black;
+    font-family: serif;
+    font-size: 35px;
+    font-weight: 700;
+}
+.secondbtn{
+    background-color: transparent;
+    color: black;
+    padding: 10px;
+}
+.secondbtn2{
+   margin-right: 15px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.innerdiv{
+    padding: 20px;
+}
+.pestoimg{
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.companylogos{
+    height: 30px;
+    width: 80px;
+    margin-top: 12px;
+}
+.logodiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color:azure;
+    padding-top: 40px;
+}
+.companylogos2{
+    height: 45px;
+
+}
+.forcompantimg2{
+    height: 400px;
+    width: 370px;
+    border-radius: 20px;
+}
+.div7{
+    display: flex;
+    padding: 30px;
+    text-align: center;
+    background-color:bisque;
+    border-radius: 20px;
+}
+.div8{
+    
+    text-align: left;
+    padding-left: 40px;
+}
+.div9{
+    padding: 50px;
+    background-color: azure;
+}
+.head4{
+    font-family: serif;
+    font-size: 30px;
+}
+
+.para4{
+    font-family: serif;
+    color: black;
+}

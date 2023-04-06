@@ -1,0 +1,150 @@
+.maindiv{
+    background-image: url("file:///C:/Users/toshiba/Downloads/dominik-lange-Lej_oqHljbk-unsplash.jpg"); 
+   /**/
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+    
+}
+.para{
+    text-align: center;
+    color: red;
+}
+.headingdiv{
+    color: white;
+    font-family: 'Open Sans';
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+.paragraph{
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-top: 20px;
+}
+.img2{
+    height:326px;
+    width:734px;
+}
+
+.heading2{
+    color:yellow
+}
+
+.head3{
+    color:#1F1E1D;
+    padding: 20px;
+    font-family: serif;
+    font-weight: 700;
+    font-size: 40px;
+    margin: 60px;
+}
+
+.developer-heading-container{
+    text-align:center
+    
+}
+
+.container{
+    text-align:center;
+    background-color:#ffe6e6;
+    margin: 30px;
+    border-radius: 20px;
+    
+}
+.container3{
+    text-align:center;
+    
+}
+
+
+.mr{
+    margin-right:20px;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+/* .banner{
+    text-align:center;
+} */
+
+.imgsize{
+    width:360px;
+    height:450px;
+}
+
+.learn-more{
+    background-color:#696969;
+    padding: 10px;
+    border-radius: 18px;
+    display: flex;
+    color: white;
+   font-weight: 500;
+   
+   margin-top: 10px;
+}
+.div2{
+    background-color: #1F1E1D;
+    text-align: center;
+}
+
+.samp{
+    display: flex;
+}
+.label{
+    color: black;
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 16px;
+}
+.labelhead{
+    font-family: sarif;
+    font-weight: 600;
+    font-size: 37px;
+    color:black;
+    padding-top: 20px;
+}
+.lowerdiv{
+    background-color: #1f1e1d;
+    margin: 20px;
+    border-radius: 35px;
+    padding: 30px;
+}
+
+.sample23{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+.fg{
+    display: flex;
+    flex-direction: row;
+}
+.pestohead{
+    color: white;
+    font-family: serif;
+}
+.pestopara{
+    color: white;
+    font-family: serif;
+}
+.span1{
+    background-color:#696969;
+    border-radius: 4px;
+}
+.ul{
+    display: flex;
+    flex-direction: column;
+}
+.sam34{
+    display: flex;
+    flex-direction: column;
+   
+}
